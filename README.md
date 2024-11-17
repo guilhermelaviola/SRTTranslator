@@ -1,0 +1,2 @@
+# SRTTranslator
+Python SRT translator.
